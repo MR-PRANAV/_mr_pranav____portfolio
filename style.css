@@ -800,7 +800,7 @@ body {
 }
 
 .location-section .timeline{
-    list-style-type: none;
+    list-style-type:"❖" ;
 }
 .location-section .timeline li{
     line-height: 23px;
@@ -828,6 +828,7 @@ body {
 .ACHIEVEMENTS-HOBBIES-section .timeline li p{
     margin: 0px 0px 0px 10px;
 }
+
 
 
 @media (max-width:469px) {
