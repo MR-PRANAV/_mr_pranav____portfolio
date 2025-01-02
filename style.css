@@ -1281,6 +1281,16 @@ body {
     position: relative;
   }
   
+
+  .form-EXT-msg{
+    color: rgb(255, 192, 192);
+  }
+
+  .form-EXT-msg a{
+    color: rgb(255, 125, 125);
+    text-decoration: none;
+  }
+
   .message {
     color: #355891;
     font-size: 14px;
@@ -1336,9 +1346,7 @@ body {
     border-radius: 5px;
   }
   
-  
-  
-  
+
   .fancy {
     background-color: white;
     border: 2px solid #355891;
@@ -1360,6 +1368,7 @@ body {
     transition: all 0.3s ease-in-out;
     user-select: none;
     font-size: 13px;
+    
   }
   
   .fancy::before {
