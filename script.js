@@ -604,7 +604,7 @@ const skill = [
       // # skil NUMBER
       s_tag: "#Soft Skils",
       s_name: "OTHER MEGA WORK",
-      s_key: `API's Handling | Error Handling | Validation |
+      s_key: `API's Handling | Error Handling - [ Client side & Server side ] | Validation in Schema |
               `,
               // Express Router | Authentication | Deployment 
     },
