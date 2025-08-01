@@ -7,7 +7,6 @@ body {
     justify-content: center; /* Center the .OUTER-BOX horizontally */
     height: 100vh;
     color: white;
-    user-select: none; 
 }
 
 
